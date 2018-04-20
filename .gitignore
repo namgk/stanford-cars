@@ -1,0 +1,5 @@
+*.tgz
+cars_train
+cars_test
+train_lmdb
+validation_lmdb
